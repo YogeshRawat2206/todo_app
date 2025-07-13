@@ -1,3 +1,5 @@
+ToDo Application
+
 A lightweight and user-friendly mobile app to manage daily tasks. This app allows users to add, edit, prioritize, and delete tasks with support for due dates and completion tracking. Built with simplicity and usability in mind.
 
 Features:
