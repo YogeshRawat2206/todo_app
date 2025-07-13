@@ -1,16 +1,39 @@
-# to_do_list_app
+A lightweight and user-friendly mobile app to manage daily tasks. This app allows users to add, edit, prioritize, and delete tasks with support for due dates and completion tracking. Built with simplicity and usability in mind.
 
-A new Flutter project.
+Features:
+Task Management
 
-## Getting Started
+Add new tasks with title and optional description
 
-This project is useful for increasing your efficiency according to your schedule with priorities.
+Edit existing task details
 
-A few resources to get you started if this is your first Flutter project:
+Mark tasks as completed or active
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Delete tasks when no longer needed
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📌 Task Priorities
+
+Set priority levels (e.g., High, Medium, Low) to organize your workflow
+
+📅 Due Dates
+
+Assign due dates to tasks to keep track of deadlines
+
+💾 Local Storage
+
+All tasks are stored locally on the device for offline access and data persistence
+
+🏠 Home Screen
+
+Clean and intuitive interface displaying a list of all tasks with their completion status and due dates
+
+📱 Screens
+Home Screen: View all tasks with title, priority, due date, and completion status
+
+Task Creation: Add tasks with optional description, priority, and due date
+
+Task Editing: Update task information or mark as complete
+
+Task Details: Tap any task to view or modify it
+
+Delete Task: Swipe or use delete button to remove tasks
